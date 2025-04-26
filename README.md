@@ -4,6 +4,7 @@ I'm currently a computer engineering student at UIT.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/an-nguy%E1%BB%85n-ho%C3%A0ng-2496ba34b/overlay/about-this-profile/?trk=opento_sprofile_goalscard) 
+[![Facebook]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/an-nguy%E1%BB%85n-ho%C3%A0ng-2496ba34b/overlay/about-this-profile/?trk=opento_sprofile_goalscard](https://www.facebook.com/nguyen.an.910574/)) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
