@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Computer Engineering student at UIT, eager to explore and conquer new challenges in the world of technology!<br/>
+**I am a passionate Computer Engineering student at UIT, eager to explore and conquer new challenges in the world of technology!**
 
 
 ## 🌐 Socials:
